@@ -6,4 +6,6 @@
 * To get datset run the cells in model_1.pynb in Approcah_1 folder
 * To install requirements type: pip install -r requirements.txt
 * Below is sample prediction:
-* ![output](https://github.com/Aman-Vishwakarma1729/ScriptVision-Advanced-Handwritten-Text-Recognition/assets/110922641/4d613aa4-55d9-45a1-9b6d-2c0d04ba5d39)
+<div align="center">
+  <img src="sample_data_with_predicted_output\output.png" alt="Designer" width="300"/>
+</div>
