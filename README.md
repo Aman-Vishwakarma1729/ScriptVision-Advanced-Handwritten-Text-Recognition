@@ -3,3 +3,4 @@
   <img src="readme_src_img\m1.jpeg" alt="Designer" width="500"/>
 </div>
 
+* To get datset run the cells in model_1.pynb in Approcah_1 folder
