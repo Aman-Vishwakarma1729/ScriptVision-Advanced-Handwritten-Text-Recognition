@@ -4,3 +4,4 @@
 </div>
 
 * To get datset run the cells in model_1.pynb in Approcah_1 folder
+* To install requirements type: pip install -r requirements.txt
